@@ -1,0 +1,28 @@
+# ── Dependencies ─────────────────────────────────
+node_modules/
+
+# ── Build output ──────────────────────────────────
+dist/
+dist-ssr/
+
+# ── Local env files ───────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ── Vite cache ────────────────────────────────────
+.vite/
+*.local
+
+# ── Editor / OS ───────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ── Logs ──────────────────────────────────────────
+*.log
+npm-debug.log*
+
+# ── Colleague package (not for public repo) ───────
+package_for_colleague/
