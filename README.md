@@ -6,7 +6,7 @@
 
 **HandiTalk** is an AI-powered travel companion for deaf and hard-of-hearing tourists — turning any cultural destination into a fully accessible, deeply human experience.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20HandiTalk-E8185A?style=for-the-badge)](https://handi-talk-tourism.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20HandiTalk-E8185A?style=for-the-badge)](https://handitalk.vercel.app)
 [![Built With React](https://img.shields.io/badge/Built%20With-React%20%2B%20Vite-61DAFB?style=for-the-badge)](https://react.dev)
 
 </div>
